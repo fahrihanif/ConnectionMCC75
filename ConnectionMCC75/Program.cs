@@ -19,7 +19,7 @@ public class Program
         //program.GetRegions();
 
         //program.InsertRegion(region);
-
+        Console.WriteLine("test");
         program.GetByIdRegion(5);
     }
 
