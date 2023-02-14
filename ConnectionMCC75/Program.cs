@@ -15,6 +15,7 @@ public class Program
         region.Name = "cek 123";
 
         Console.WriteLine("saya Melakukan perubahan disini");
+        Console.WriteLine("saya Melakukan perubahan disini");
         //program.GetRegions();
 
         //program.InsertRegion(region);
